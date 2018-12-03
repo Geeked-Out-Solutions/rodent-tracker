@@ -1,0 +1,3 @@
+
+        [console_scripts]
+        rodenttracker=cli.cli:cli
